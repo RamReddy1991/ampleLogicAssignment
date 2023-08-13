@@ -1,0 +1,2 @@
+# ampleLogic
+Ample Logic assignment
